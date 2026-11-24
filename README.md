@@ -64,3 +64,11 @@ Peliä voisi pelata sekä suomeksi että englanniksi. Miten pelaaja vaihtaa kiel
 - Älä anna agentin asentaa ohjelmia tai suorittaa komentoja ilman ohjaajaa.
 
 **Lopuksi:** Näyttäkää muille, mitä rakensitte. Mikä oli paras ominaisuus? Mitä tekisitte seuraavaksi?
+
+## Lisenssi
+
+Tämä projekti on julkaistu MIT-lisenssillä.
+Voit vapaasti käyttää, muokata ja jakaa projektia
+lisenssin ehtojen mukaisesti.
+
+Katso [LICENSE](LICENSE).
